@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>w5 - Copy.PNG</filename>
+	<path>C:\Users\ADETAYO\Desktop\New folder\new\w5 - Copy.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>206</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SCI_15_CSC_078</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>26</ymin>
+			<xmax>187</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+</annotation>

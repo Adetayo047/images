@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>m15.JPG</filename>
+	<path>C:\Users\ADETAYO\Desktop\New folder\new\m15.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>238</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SCI_15_CSC_049</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>23</ymin>
+			<xmax>201</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

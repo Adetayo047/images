@@ -1,0 +1,26 @@
+<annotation>
+	<folder>herger</folder>
+	<filename>E3.JPG</filename>
+	<path>C:\Users\ADETAYO\Pictures\herger\E3.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>80</width>
+		<height>79</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SCI_15_CSC_010</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>6</ymin>
+			<xmax>64</xmax>
+			<ymax>67</ymax>
+		</bndbox>
+	</object>
+</annotation>

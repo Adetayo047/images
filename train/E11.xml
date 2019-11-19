@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>E11.JPG</filename>
+	<path>C:\Users\ADETAYO\Desktop\images\E11.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>117</width>
+		<height>125</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SCI_15_CSC_010</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>6</ymin>
+			<xmax>96</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>

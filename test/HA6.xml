@@ -1,0 +1,26 @@
+<annotation>
+	<folder>herger</folder>
+	<filename>HA6.JPG</filename>
+	<path>C:\Users\ADETAYO\Pictures\herger\HA6.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>120</width>
+		<height>94</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SCI_15_CSC_022</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>9</ymin>
+			<xmax>101</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+</annotation>

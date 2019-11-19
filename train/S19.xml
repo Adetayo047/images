@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>S19.JPG</filename>
+	<path>C:\Users\ADETAYO\Desktop\New folder\new\S19.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>208</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SCI_15_CSC_043</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>13</ymin>
+			<xmax>148</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>S8.JPG</filename>
+	<path>C:\Users\ADETAYO\Desktop\New folder\new\S8.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SCI_15_CSC_043</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>31</ymin>
+			<xmax>221</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

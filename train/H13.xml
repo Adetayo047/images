@@ -1,0 +1,26 @@
+<annotation>
+	<folder>N</folder>
+	<filename>H13.JPG</filename>
+	<path>C:\Users\ADETAYO\Desktop\New folder\N\H13.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>247</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SCI_15_CSC_045</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>50</ymin>
+			<xmax>178</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

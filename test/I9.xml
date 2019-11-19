@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>I9.jpg</filename>
+	<path>C:\Users\ADETAYO\Desktop\New folder\new\I9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>238</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SCI_15_CSC_026</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>26</ymin>
+			<xmax>202</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

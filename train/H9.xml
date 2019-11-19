@@ -1,0 +1,26 @@
+<annotation>
+	<folder>N</folder>
+	<filename>H9.JPG</filename>
+	<path>C:\Users\ADETAYO\Desktop\New folder\N\H9.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SCI_15_CSC_045</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>23</ymin>
+			<xmax>197</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

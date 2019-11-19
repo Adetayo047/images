@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>p20.JPG</filename>
+	<path>C:\Users\ADETAYO\Desktop\New folder\new\p20.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>173</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SCI_15_CSC_005</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>38</ymin>
+			<xmax>162</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>
